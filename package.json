@@ -24,7 +24,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.437.0",
     "mongoose": "^8.6.2",
-    "next": "^14.2.14",
+    "next": "^14.2.1",
     "query-string": "^9.1.0",
     "react": "^18",
     "react-dom": "^18",
