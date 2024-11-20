@@ -3,7 +3,7 @@
 ## Description
 A modern job portal application built with Next.js, offering a seamless experience for job seekers and employers. This platform enables users to post jobs, search for opportunities, and manage their job applications efficiently.
 
-## Demo
+What does the project look like,
 ![Job Portal Demo](./public/demo.jpg)
 
 ## Features
@@ -21,7 +21,7 @@ A modern job portal application built with Next.js, offering a seamless experien
 - Tailwind CSS
 - MongoDB
 - NextAuth.js
-- Prisma ORM
+- Mongoose ORB
 
 ## Installation
 
@@ -35,7 +35,7 @@ cd nextjs-job-portal-2024
 ```bash
 npm install
 # or
-yarn install
+bun install
 ```
 
 3. Set up environment variables
@@ -48,7 +48,7 @@ Fill in your environment variables in `.env.local`
 ```bash
 npm run dev
 # or
-yarn dev
+bun dev
 ```
 
 ## Usage
@@ -78,8 +78,8 @@ Visit `http://localhost:3000` to see the application running.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@mhasnain23](https://github.com/mhasnain23)
+- Email: codewithhasnainbro@gmail.com
 
 ## Acknowledgments
 - Next.js team for the amazing framework
