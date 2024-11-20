@@ -3,7 +3,7 @@
 ## Description
 A modern job portal application built with Next.js, offering a seamless experience for job seekers and employers. This platform enables users to post jobs, search for opportunities, and manage their job applications efficiently.
 
-What does the project look like,
+##What Project Look Like:)
 ![Job Portal Demo](./public/demo.jpg)
 
 ## Features
