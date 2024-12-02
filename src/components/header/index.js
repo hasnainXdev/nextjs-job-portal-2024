@@ -36,10 +36,7 @@ const Header = ({ user, profileInfo }) => {
     {
       label: "Membership",
       path: "/membership",
-      show:
-        profileInfo?.role === "recruiter"
-          ? true
-          : false,
+      show: profileInfo?.role === "recruiter" ? true : false,
     },
     {
       label: "Account",
