@@ -59,7 +59,7 @@ const Header = ({ user, profileInfo }) => {
           <SheetContent side="left">
             <Link
               href={"/"}
-              className="mr-6 hidden lg:flex text-[1.8rem] font-bold tracking-tight"
+              className="text-2xl mr-6 hidden lg:flex text-[1.8rem] font-bold tracking-tight"
             >
               <h3>JOBSCO</h3>
             </Link>
