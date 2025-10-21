@@ -78,7 +78,7 @@ Visit `http://localhost:3000` to see the application running.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- GitHub: [@mhasnain23](https://github.com/mhasnain23)
+- GitHub: [@hasnainxdev](https://github.com/hasnainxdev)
 - Email: codewithhasnainbro@gmail.com
 
 ## Acknowledgments
